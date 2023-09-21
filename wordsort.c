@@ -1,21 +1,3 @@
-/*
-Michael Nguyen
-11/12/21
-Program 5: WordSort
-*/
-
-/*
-Issues:
-    -> I couldn't get the array full of pointers to the tree
-    -> Without the array I could not sort the output from descending order 
-    -> Copying and pasting on eustis came out with a strange output, but when using an in.txt file there
-       were zero issues.
-*/
-
-/*
-    Other than that, the program runs as intended
-*/
-
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
